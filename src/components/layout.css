@@ -1,0 +1,41 @@
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  background-color: black;
+}
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.LogoSite {
+  height: 30px;
+  width: 140px;
+}
+
+.PlayerGroup {
+  margin: 64px 64px 64px 64px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  justify-content: center;
+  max-width: 960px;
+  grid-gap: 24px;
+}
+
+@media (max-width: 920px) {
+  .PlayerGroup {
+    grid-template-columns: repeat(3, 1fr);
+    margin: 48px 48px 48px 48px;
+    grid-gap: 48px;
+  }
+}
+
+@media (max-width: 648px) {
+  .PlayerGroup {
+    grid-template-columns: repeat(2, 1fr);
+    margin: 48px 48px 48px 48px;
+    grid-gap: 48px;
+  }
+}
