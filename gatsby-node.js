@@ -4,7 +4,7 @@ exports.onCreateWebpackConfig = ({ stage, loaders, actions }) => {
       module: {
         rules: [
           {
-            test: /react-modular-audio-player/,
+            test: /bad-module/,
             use: loaders.null(),
           },
         ],
