@@ -1,5 +1,6 @@
-import React, { Component } from 'react'
-import AudioPlayer from "react-modular-audio-player";
+import React from "react"
+import { Component } from "react"
+import AudioPlayer from "react-modular-audio-player"
 
 let rearrangedPlayer = [
   {
