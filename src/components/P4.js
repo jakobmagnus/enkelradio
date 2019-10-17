@@ -1,10 +1,10 @@
 import React from "react"
-import { Component } from "react"
 import AudioPlayer from "react-modular-audio-player"
+import "./layout.css"
 
 let rearrangedPlayer = [
   {
-    className: "Beatles",
+    className: "P4",
     style: { cursor: "pointer" },
     innerComponents: [
       {
@@ -14,7 +14,7 @@ let rearrangedPlayer = [
   }
 ];
 
-class P4 extends Component {
+class P4 extends React.Component {
   render() {
     return <AudioPlayer
       audioFiles={[
