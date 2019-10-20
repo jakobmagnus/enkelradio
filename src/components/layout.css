@@ -10,13 +10,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.LogoSite {
-  Display: flex;
-  Height: 40px;
-  Align-Items: center;
-  Justify-Content: center;
-}
-
 .Channels {
   margin: 0 auto;
   padding-top: 128px;
