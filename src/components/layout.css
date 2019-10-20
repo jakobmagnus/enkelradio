@@ -11,11 +11,13 @@ body {
 }
 
 .LogoSite {
-  height: 30px;
-  width: 140px;
+  Display: flex;
+  Height: 40px;
+  Align-Items: center;
+  Justify-Content: center;
 }
 
-.PlayerGroup {
+.Channels {
   margin: 0 auto;
   padding-top: 128px;
   display: grid;
@@ -25,7 +27,7 @@ body {
 }
 
 @media (max-width: 920px) {
-  .PlayerGroup {
+  .Channels {
     grid-template-columns: repeat(3, 1fr);
     margin: 48px 48px 48px 48px;
     grid-gap: 48px;
@@ -33,7 +35,7 @@ body {
 }
 
 @media (max-width: 648px) {
-  .PlayerGroup {
+  .Channelsp {
     grid-template-columns: repeat(2, 1fr);
     margin: 48px 48px 48px 48px;
     grid-gap: 48px;
