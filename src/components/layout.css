@@ -21,6 +21,7 @@ body {
 
 @media (max-width: 920px) {
   .Channels {
+    margin: 0 auto;
     grid-template-columns: repeat(3, 1fr);
     margin: 48px 48px 48px 48px;
     grid-gap: 48px;
@@ -29,6 +30,7 @@ body {
 
 @media (max-width: 720px) {
   .Channels {
+    margin: 0 auto;
     grid-template-columns: repeat(2, 1fr);
     margin: 48px 48px 48px 48px;
     grid-gap: 48px;
