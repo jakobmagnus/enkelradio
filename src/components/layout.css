@@ -12,27 +12,23 @@ body {
 
 .Channels {
   margin: 0 auto;
-  padding-top: 128px;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   max-width: 960px;
-  grid-gap: 24px;
+  grid-gap: 48px;
+  padding-top: 128px;
 }
 
 @media (max-width: 920px) {
   .Channels {
-    margin: 0 auto;
     grid-template-columns: repeat(3, 1fr);
-    margin: 48px 48px 48px 48px;
     grid-gap: 48px;
   }
 }
 
 @media (max-width: 720px) {
   .Channels {
-    margin: 0 auto;
     grid-template-columns: repeat(2, 1fr);
-    margin: 48px 48px 48px 48px;
     grid-gap: 48px;
   }
 }
