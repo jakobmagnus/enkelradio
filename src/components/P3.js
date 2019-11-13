@@ -19,7 +19,7 @@ class P3 extends React.Component {
     return <AudioPlayer
       audioFiles={[
         {
-          src: "http://sverigesradio.se/topsy/direkt/srapi/164.mp3",
+          src: "https://http-live.sr.se/p3-mp3-128",
           title: "P3",
           artist: "Sveriges Radio"
         }
