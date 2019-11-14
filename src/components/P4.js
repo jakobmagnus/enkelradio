@@ -25,8 +25,8 @@ class P4 extends React.Component {
         }
       ]}
       rearrange={rearrangedPlayer}
-      playerWidth="164px"
-      iconSize="164px"
+      playerWidth="132px"
+      iconSize="132px"
       playIcon="https://i.ibb.co/wWyQwvm/p4.png"
       playHoverIcon="https://i.ibb.co/wWyQwvm/p4.png"
       pauseIcon="https://i.ibb.co/wWyQwvm/p4.png"
