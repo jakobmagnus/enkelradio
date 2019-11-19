@@ -3,8 +3,8 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "xyz.appmaker.fdllfb",
-      "sha256_cert_fingerprints": ["DD:42:C4:0F:3B:BF:51:2E:A1:4D:A4:E2:3D:26:A7:8A:83:14:36:06:89:86:0A:D8:96:0E:7D:69:5F:60:63:08","eb10fe8f7c7c9df715022017b00c6471f8ba8170b13049a11e6c09ffe3056a104a3bbe4ac5a955f4ba4fe93fc8cef27558a3eb9d2a529a2092761fb833b656cd48b9de6a"]
+      "package_name": "xyz.appmaker.zcruen",
+      "sha256_cert_fingerprints": ["73:CD:79:14:70:02:21:3B:3E:9A:0C:60:83:FA:E2:48:4E:73:E5:7C:01:4D:A6:67:CE:A5:82:CA:C2:D6:AF:CE","SHA256: E8:42:D1:48:C8:0B:3A:A3:33:4D:5E:38:28:43:EC:C9:25:FE:A3:6B:7B:2C:12:2C:8D:BC:96:5F:FD:C0:E8:93"]
     }
   }
 ]
