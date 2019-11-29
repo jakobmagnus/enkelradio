@@ -1,5 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.example.enkelradio",
-               "sha256_cert_fingerprints": ["1E:7C:06:C7:2C:A2:E8:32:4E:9B:A0:99:6E:36:9E:32:41:91:9B:F5:A1:11:74:63:0F:FB:A9:96:44:6B:1D:8E"] }
-}]
