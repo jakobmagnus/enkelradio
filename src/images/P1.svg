@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
-    <title>P1</title>
-    <desc>Created with Sketch.</desc>
-    <g id="P1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle" fill="#30A1BD" x="0" y="0" width="200" height="200" rx="8"></rect>
-        <g id="P1garant_cmyk" transform="translate(50.000000, 66.000000)" fill="#FFFFFF">
-            <g id="Group-24" transform="translate(30.465950, 0.000000)">
-                <path d="M9.71362007,22.3676947 C9.71362007,38.0222824 0.149820789,39.8979771 0.149820789,39.8979771 L12.9236559,39.8979771 C14.1548387,39.8979771 35.625448,40.7594046 35.625448,19.9710534 C35.625448,-0.818374046 14.1548387,0.0434122137 12.9236559,0.0434122137 L0.149820789,0.0434122137 C0.149820789,0.0434122137 9.71362007,1.91946565 9.71362007,17.5744122 L9.71362007,22.3676947" id="Fill-23"></path>
-            </g>
-            <polyline id="Fill-25" points="98.3752688 68.5238473 98.3752688 0.0434122137 87.0086022 0.0434122137 73.3272401 23.697687 73.3272401 68.5238473 98.3752688 68.5238473"></polyline>
-            <polygon id="Fill-26" points="0.437275986 68.5238473 24.1605735 68.5238473 24.1605735 0.0434122137 0.437275986 0.0434122137"></polygon>
-        </g>
-    </g>
-</svg>
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><rect fill="#30A1BD" width="200" height="200" rx="8"/><g fill="#FFF"><path d="M90.18 88.368c0 15.654-9.564 17.53-9.564 17.53H93.39c1.23 0 22.701.861 22.701-19.927 0-20.79-21.47-19.928-22.701-19.928H80.616s9.564 1.876 9.564 17.531v4.794M148.375 134.524v-68.48H137.01l-13.682 23.654v44.826h25.048M50.437 134.524h23.724v-68.48H50.437z"/></g></g></svg>
