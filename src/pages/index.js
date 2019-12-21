@@ -17,7 +17,7 @@ const IndexPage = () => (
         pauseHoverIcon={P1}
         audioFiles={[
           {
-            src: "https://http-live.sr.se/p1-mp3-128",
+            src: "http://sverigesradio.se/topsy/direkt/srapi/132.mp3",
             title: "P1",
             artist: "Sveriges Radio"
           }
@@ -30,7 +30,7 @@ const IndexPage = () => (
         pauseHoverIcon={P2}
         audioFiles={[
           {
-            src: "https://http-live.sr.se/p2-mp3-128",
+            src: "http://sverigesradio.se/topsy/direkt/srapi/163.mp3",
             title: "P2",
             artist: "Sveriges Radio"
           }
@@ -43,7 +43,7 @@ const IndexPage = () => (
         pauseHoverIcon={P3}
         audioFiles={[
           {
-            src: "https://http-live.sr.se/p3-mp3-128",
+            src: "http://sverigesradio.se/topsy/direkt/srapi/164.mp3",
             title: "P3",
             artist: "Sveriges Radio"
           }
@@ -56,7 +56,7 @@ const IndexPage = () => (
         pauseHoverIcon={P4}
         audioFiles={[
           {
-            src: "https://http-live.sr.se/p4-mp3-128",
+            src: "http://sverigesradio.se/topsy/direkt/srapi/701.mp3",
             title: "P4",
             artist: "Sveriges Radio"
           }

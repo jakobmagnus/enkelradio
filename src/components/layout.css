@@ -13,10 +13,12 @@ body {
 .channels {
   margin: 0 auto;
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(auto-fill, 200px);
+  width: 100%;
   max-width: 960px;
   grid-gap: 48px;
-  padding-top: 128px;
+  padding: 128px 0;
+  justify-content: space-around;
 }
 
 @media (max-width: 920px) {
@@ -28,18 +30,22 @@ body {
 
 @media (max-width: 720px) {
   .channels {
+    padding: 64px 0;
     grid-template-columns: repeat(1, 1fr);
     grid-gap: 48px;
   }
 }
 
 .channel {
-  width: 200px;
+  max-width: 30rem;
+}
+
+.channel > div {
+  justify-content: center !important;
 }
 
 #play-icon {
   width: 100%;
-  max-width: 20rem;
   height: auto !important;
 }
 

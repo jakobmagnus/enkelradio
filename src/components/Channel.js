@@ -18,6 +18,7 @@ export const Channel = ( props ) => {
   return (
     <AudioPlayer
       className="channel"
+      playerWidth="100%"
       rearrange={rearrangedPlayer}
       {...props}
     />
