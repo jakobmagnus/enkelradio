@@ -14,19 +14,14 @@ body {
   margin: 0 auto;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
+  grid-column-gap: 48px;
+  grid-row-gap: 48px;
   max-width: 80%;
-  grid-gap: 48px;
   padding: 128px 0;
-  justify-content: space-around;
+  justify-content: center;
 }
 
-@media (max-width: 920px) {
-  .channels {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-@media (max-width: 720px) {
+@media (max-width: 700px) {
   .channels {
     grid-template-columns: repeat(2, 1fr);
   }
