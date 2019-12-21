@@ -7,7 +7,7 @@ import "../components/layout.css"
 
 const IndexPage = () => (
   typeof window !== 'undefined' &&
-  <div className="Channels">
+  <div className="channels">
     <P1 />
     <P2 />
     <P3 />
