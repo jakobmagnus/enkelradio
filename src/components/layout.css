@@ -13,8 +13,7 @@ body {
 .channels {
   margin: 0 auto;
   display: grid;
-  grid-template-columns: repeat(auto-fill, 200px);
-  width: 100%;
+  grid-template-columns: repeat(4, 1fr);
   max-width: 80%;
   grid-gap: 48px;
   padding: 128px 0;
@@ -24,20 +23,17 @@ body {
 @media (max-width: 920px) {
   .channels {
     grid-template-columns: repeat(2, 1fr);
-    grid-gap: 48px;
   }
 }
 
 @media (max-width: 720px) {
   .channels {
-    padding: 64px 0;
     grid-template-columns: repeat(2, 1fr);
-    grid-gap: 48px;
   }
 }
 
 .channel {
-  max-width: 30rem;
+  max-width: 40rem;
 }
 
 .channel > div {
@@ -47,8 +43,4 @@ body {
 #play-icon {
   width: 100%;
   height: auto !important;
-}
-
-.audio-player {
-  margin: 0 auto;
 }
