@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>p4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="p4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="200" height="200"></rect>
+        <rect id="Rectangle" fill="#C22AAA" x="0" y="0" width="200" height="200" rx="8"></rect>
+        <g id="P4garant_srgb" transform="translate(50.000000, 68.000000)" fill="#FFFFFF">
+            <g id="Group-24" transform="translate(25.838926, 0.000000)">
+                <path d="M8.12214765,21.1300763 C8.12214765,35.7854351 0.0352348993,37.3512977 0.0352348993,37.3512977 L8.74530201,37.3512977 C9.81073826,37.3512977 30.7312081,38.1574046 30.7312081,18.6956336 C30.7312081,-0.765465649 14.4100671,0.0406412214 13.3446309,0.0406412214 L0.0352348993,0.0406412214 C0.0352348993,0.0406412214 8.12214765,1.70424427 8.12214765,16.3602748 L8.12214765,21.1300763" id="Fill-23"></path>
+            </g>
+            <polygon id="Fill-25" points="0.409395973 64.1499847 20.3520134 64.1499847 20.3520134 0.0406412214 0.409395973 0.0406412214"></polygon>
+            <polyline id="Fill-26" points="76.4604027 0.0406412214 46.6708054 49.1956947 69.2614094 49.1956947 99.7439597 0.0406412214 76.4604027 0.0406412214"></polyline>
+            <polyline id="Fill-27" points="84.6322148 32.0034504 74.0328859 49.1923359 74.0328859 64.1499847 93.5812081 64.1499847 93.5812081 32.0034504 84.6322148 32.0034504"></polyline>
+        </g>
+    </g>
+</svg>
