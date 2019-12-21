@@ -25,6 +25,7 @@ body {
   .channels {
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 48px;
+    max-width: 720px;
   }
 }
 
@@ -33,6 +34,7 @@ body {
     padding: 64px 0;
     grid-template-columns: repeat(1, 1fr);
     grid-gap: 48px;
+    max-width: 320px;
   }
 }
 
